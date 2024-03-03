@@ -1,4 +1,3 @@
-# Sign_language_detectionMODEL
 # Sign Language Detection using AIML
 # Overview
 This project utilizes AIML (Artificial Intelligence Markup Language) along with Python libraries such as TensorFlow, MediaPipe, and OpenCV to detect and interpret sign language gestures in real-time. The aim is to provide a system capable of understanding and translating sign language into text or spoken language, facilitating communication for the hearing impaired.
