@@ -23,7 +23,7 @@ pip install tensorflow mediapipe opencv-python
 # Usage
 Clone this repository to your local machine:
 bash code
-git clone https://github.com/yourusername/sign-language-detection.git
+git clone https://github.com/343ANIKET/sign-language-detection.git
 
 # Navigate to the project directory:
 bash code
