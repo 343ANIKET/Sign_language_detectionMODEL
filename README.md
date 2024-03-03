@@ -22,15 +22,15 @@ pip install tensorflow mediapipe opencv-python
 # Usage
 Clone this repository to your local machine:
 bash code
-git clone https://github.com/343ANIKET/sign-language-detection.git
+# git clone https://github.com/343ANIKET/sign-language-detection.git
 
 # Navigate to the project directory:
 bash code
-cd sign-language-detection
+# cd sign-language-detection
 
 # Run the main script:
 bash code
-python sign_language_detection.py
+# python sign_language_detection.py
 
 Point your camera towards a person making sign language gestures.
 
